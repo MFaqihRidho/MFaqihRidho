@@ -32,7 +32,7 @@
 <a target="_blank" href="https://icons8.com/icon/rY6agKizO9eb/vue-js"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/84710/bootstrap"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-[![tailwind-css.png](https://i.postimg.cc/hvqdSWq4/tailwind-css.png)](https://postimg.cc/1nJtHdtb)
+<img width=60 src="https://i.postimg.cc/hvqdSWq4/tailwind-css.png">
 <a target="_blank" href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/KIcFwp9MNQL5/postman-api"><img src="https://img.icons8.com/wired/40/000000/postman-api.png"/></a>
 <a target="_blank" href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
