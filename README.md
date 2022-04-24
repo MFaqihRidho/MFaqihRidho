@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently Work as a junior Front-End Developer
 
 - 📫 How to reach me **mfaqihridhoo@gmail.com**
 
