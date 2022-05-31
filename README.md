@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mfaqihridhoo@gmail.com**
 
-- ⚡ Hobby - Code And Game 
+- ⚡ Hobby - I love to play Games and watch Anime
 
 <br>
 
