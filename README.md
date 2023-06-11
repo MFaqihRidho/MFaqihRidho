@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm M.Faqih Ridho</h1>
-<h3 align="center">Maybe you can see me as a beginner front end developer</h3>
 
 <br>
 
-- 🌱 I’m currently Work as a junior Front-End Developer
+- 🌱 I’m currently Work as a Front-End Developer
 
 - 📫 How to reach me **mfaqihridhoo@gmail.com**
 
