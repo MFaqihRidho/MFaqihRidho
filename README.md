@@ -40,7 +40,7 @@
 <br>
 
 <h3>Spend Time(Real Time):-</h3>
-<figure><embed src="https://wakatime.com/share/@af024db1-0c91-4149-ab0e-1ab517a1b50d/1992ec3b-9bea-482e-8fa7-c48806317fea.svg"></embed></figure>
+<figure><img src="https://wakatime.com/share/@af024db1-0c91-4149-ab0e-1ab517a1b50d/1992ec3b-9bea-482e-8fa7-c48806317fea.svg"/></figure>
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
