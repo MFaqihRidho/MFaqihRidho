@@ -39,8 +39,9 @@
 
 <br>
 
-<h3>Spend Time(Real Time):-</h3>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)
+<h3>Spend Time:</h3>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
