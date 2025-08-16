@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 I’m currently Work as a Front-End Developer
+- 🌱 I’m currently A software engineer that love building app in public
 
 - 📫 How to reach me **mfaqihridhoo@gmail.com**
 
