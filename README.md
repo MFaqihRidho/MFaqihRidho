@@ -39,23 +39,6 @@
 
 <br>
 
-<h3>Spend Time:</h3>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)](https://github-readme-stats.vercel.app/api/wakatime?username=mfaqihridho)
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MFaqihRidho&show_icons=true&theme=monokai"
-    alt="MFaqihRidho" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MFaqihRidho&theme=monokai&show_icons=true"
-    alt="MFaqihRidho" /></p>
-
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MFaqihRidho&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="MFaqihRidho" /></p>
 
 [MFaqihRidho](https://github.com/MFaqihRidho)
